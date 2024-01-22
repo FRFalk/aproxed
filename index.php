@@ -2,7 +2,7 @@
 if (isset($_REQUEST["p"])) {
     $pagina = $_REQUEST["p"];
 } else {
-    $pagina = ""; // or set a default value if needed
+    $pagina = ""; //
 }
 
 include "/templates/general.php";
@@ -18,10 +18,10 @@ include "/templates/general.php";
 if(empty($pagina)) {
     <body>
         <h1>
-        Hello W0r1d
+        jiububb
         </h1>
         <h2>
-         H3110 W0r1d Hello
+         mnbibu
         </h2>
     </body>
         <?php
